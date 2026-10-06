@@ -10,14 +10,6 @@ I am a full stack developer based in Pune. I build web apps with React.js, Next.
 
 ![Tech stack](assets/stack.svg?v=2)
 
-## Projects
-
-| Project | Description | Link |
-| --- | --- | --- |
-| **Project name** | Add a one-line description | [Link](https://github.com/Yashhh2409) |
-| **Project name** | Add a one-line description | [Link](https://github.com/Yashhh2409) |
-| **Project name** | Add a one-line description | [Link](https://github.com/Yashhh2409) |
-
 ## Connect
 
 <div align="center">
